@@ -1,3 +1,10 @@
 # Courses App
 
-![](images/courseApp1.png)![](images/courseApp2.png)![](images/courseApp3.png)
+## Main Page
+![](images/courseApp1.png)
+
+## Detail Page
+![](images/courseApp2.png)
+
+## Basket Page
+![](images/courseApp3.png)
